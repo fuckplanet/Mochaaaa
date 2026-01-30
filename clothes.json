@@ -35302,23 +35302,29 @@
     "Tooltip" : null
     },
 	{
-	
-        "Rarity": -1,
-        "PlatformMask": -1,
-        "IsBaseAvatarItem": false,
-        "FriendlyName": "Chibi Eyes",
-        "AvatarItemType": 0,
-        "Tooltip": "",
-        "AvatarItemId": 9503,
-        "AvatarItemDesc": "c32e78f7-7e33-42e2-b321-c56410def201,"
+  		"AvatarItemId": "c32e78f7-7e33-42e2-b321-c56410def201",
+  		"AvatarItemType": 10,
+  		"FriendlyName": "Chibi Eyes",
+  		"IsBaseAvatarItem": false,
+  		"PlatformMask": -1,
+  		"Rarity": -1,
+  		"CreatedAt": "2025-05-23T23:03:00.8199972Z",
+  		"Tooltip": null,
+  		"TagList": null,
+  		"ThumbnailImage": "duj902rwdx2mhpcyvo7lvqy9v.png",
+  		"AvatarItemDesc": "913722b9-2f38-43c2-929f-2a86f061be21,075bd5c0-6c3c-4e6f-b096-2b0a3162db70,"
     },
     {
-        "Rarity": -1,
-        "PlatformMask": -1,
-        "IsBaseAvatarItem": false,
-        "FriendlyName": "Comically Large Spork",
-        "AvatarItemType": 0,
-        "Tooltip": "",
-        "AvatarItemId": 9503,
-        "AvatarItemDesc": "8307587f-5c5d-4aad-88b7-03304900750f,"
-    }]
+  		"AvatarItemId": "06ac6b15-63eb-4b28-bf77-0e7a89af2433",
+  		"AvatarItemType": 100,
+  		"FriendlyName": "Comically Large Spoon",
+  		"IsBaseAvatarItem": false,
+  		"PlatformMask": -1,
+  		"Rarity": -1,
+ 		 "CreatedAt": "2024-12-13T14:59:12.4326048Z",
+ 		 "Tooltip": null,
+ 		 "TagList": null,
+		  "ThumbnailImage": "0dx1oiy5fcf1uhrvk3f8epmna.png",
+		  "AvatarItemDesc": "eb9db93d-225c-4a1e-8d30-435fb10e1aaa,"
+}]
+
