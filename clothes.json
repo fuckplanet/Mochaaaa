@@ -35300,4 +35300,25 @@
     "TagList" : null,
     "ThumbnailImage" : "35wve61we8efcghfumwpogrnp.png",
     "Tooltip" : null
+    },
+	{
+	
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Chibi Eyes",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "c32e78f7-7e33-42e2-b321-c56410def201,"
+    },
+    {
+        "Rarity": -1,
+        "PlatformMask": -1,
+        "IsBaseAvatarItem": false,
+        "FriendlyName": "Comically Large Spork",
+        "AvatarItemType": 0,
+        "Tooltip": "",
+        "AvatarItemId": 9503,
+        "AvatarItemDesc": "8307587f-5c5d-4aad-88b7-03304900750f,"
     }]
